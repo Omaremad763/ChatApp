@@ -1,0 +1,25 @@
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\appsettings.Development.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\appsettings.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\ChatApp _SignalR.exe
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\ChatApp _SignalR.deps.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\ChatApp _SignalR.runtimeconfig.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\ChatApp _SignalR.dll
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\bin\Debug\net7.0\ChatApp _SignalR.pdb
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.GeneratedMSBuildEditorConfig.editorconfig
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.AssemblyInfoInputs.cache
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.AssemblyInfo.cs
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.csproj.CoreCompileInputs.cache
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.MvcApplicationPartsAssemblyInfo.cache
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets\msbuild.ChatApp _SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApp _SignalR.props
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp _SignalR.props
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApp _SignalR.props
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets.pack.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets.build.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\staticwebassets.development.json
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\scopedcss\bundle\ChatApp _SignalR.styles.css
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.dll
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\refint\ChatApp _SignalR.dll
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.pdb
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ChatApp _SignalR.genruntimeconfig.cache
+H:\courses\pro\backend\Projects\ChatApp\webapi2\ChatApp _SignalR\ChatApp _SignalR\obj\Debug\net7.0\ref\ChatApp _SignalR.dll
